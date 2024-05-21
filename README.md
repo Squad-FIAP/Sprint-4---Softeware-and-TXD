@@ -11,7 +11,7 @@
 3) Chat para retirada de dúvidas
 4) Indicações de planos de saúde 
 
-### Além das funcionalidades apresentas, também trouxemos os demais pontos:
+### Além das funcionalidades apresentadas, também trouxemos os demais pontos:
 * Site com acessibilidade
 * Links úteis de contatos no Footer
 
@@ -22,7 +22,7 @@ https://www.figma.com/design/blA0secI1s6XolGJrSibyQ/Design-for-HC%2FChildren?nod
 
 ## Nosso protótipo foi testado por um grupo de mães e pais selecionados. Ao todo 10 pessoas colaboraram com a pesquisa qualitativa feita. Foram escolhidos como base pelo público-alvo da nossa solução
 
-### Pedimos para eles críticas e sugestões para os temas design do site, respostas do sistema no uso, funcionalidades trazidas e facilidade na utilização.
+### Os escolhidos foram pais e responsáveis de crianças na faixa etária entre 5 a 12 anos, que receberam o link de acesso do site para testar e validar livremente as funcionálidades que foram desenvolvidas para o projeto, após os testes, pedimos para eles críticas e sugestões para os temas design do site, respostas do sistema no uso, funcionalidades trazidas e facilidade na utilização.
 
 ### Os resultados da nossa pesquisa trouxeram sugestões como:
 * Sons no click
